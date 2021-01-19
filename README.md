@@ -1,1 +1,1 @@
-# repositorio para guardar projetos da DIO
+# Repositório para guardar os projetos da DIO
