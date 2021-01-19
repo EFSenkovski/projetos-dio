@@ -27,3 +27,8 @@ body{
 .servicos img{
     width: 100%;
 }
+
+.bg-footer{
+    color: white;
+    background-color: black;
+}
